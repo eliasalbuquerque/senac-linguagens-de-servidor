@@ -11,7 +11,7 @@
 2. A função deverá descobrir (classificar) a que faixa IMC o número passado pertence:
    1. Nesta função deverá ser criado o `Array`, para os seguintes dados:
 
-   2. ![image-20220905160309906](C:\workspace\senac-linguagens-de-servidor\pti-linguagens-de-servidor\image-20220905160309906.png)
+   2. ![image-20220905160309906](https://raw.githubusercontent.com/eliasalbuquerque/senac-linguagens-de-servidor/main/pti-linguagens-de-servidor/image-20220905160309906.png)
 
    3. Deverá percorrer o `Array` para descobrir a que faixa o número recebido pela função pertence.
 
