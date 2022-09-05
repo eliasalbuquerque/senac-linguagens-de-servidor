@@ -27,7 +27,6 @@
 
 
 
----
 
 [^1]: Extraído do documento *Produção Textual Individual* da disciplina *Linguagens de Servidor*, Autor: *Professor Carlos Henrique Veríssimo Pereira*. Senac São Paulo – Todos os Direitos Reservados
 
