@@ -32,3 +32,4 @@ function classificacao($imc){
 //Output
 echo " Atenção, seu IMC é " . imc($alt, $pes) . ", e você está classificado
 como " . classificacao(imc($alt, $pes));
+?>
