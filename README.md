@@ -12,13 +12,15 @@
 
 ## Conteúdo de aula
 
-- Montar ambiente
-- Primeira aplicação ("Hello world")
-- Arquitetura cliente-servidor
-- Criando aplicação PHP e o servidor interpretando e gerando HTML
-- Estruturas para escrever algoritmos em PHP
-  - Variáveis e tipos de dados
-  - Operadores matemáticos 
-  - Soma, subtração, multiplicação, divisão, resto da divisão inteira ou módulo
-    - (+, -, *, /, %)
-  - Strings
+- Montando ambiente
+- Arquitetura cliente-sevidor
+- Variáveis, strings, *include*, *require*
+- Estruturas de condição e laços
+- Requisição GET/POST
+- Arrays
+- Funções
+- Controle de sessões
+- Cookies
+- Conexão de banco com MySQL
+- Manipulação de arquivos
+- Orientação a objetos

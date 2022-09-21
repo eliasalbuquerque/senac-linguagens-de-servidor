@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Hoje é <?php echo date (DATE_RSS) ?></p>
+    <p>Hoje é <//?php echo date (DATE_RSS) ?></p>
 </body>
 </html>
